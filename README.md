@@ -1,7 +1,7 @@
 # SDI
 Software Design and Implemetation
 
-## Project Description
+##Project Description
 
 ##Group
 
