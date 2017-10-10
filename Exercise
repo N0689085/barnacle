@@ -1,0 +1,23 @@
+#include "stdafx.h"
+#include <string>
+using namespace std;
+
+
+int main()
+{
+	struct timeType
+	{
+		int hr; 
+		double min; 
+		int sec;
+	};
+
+	struct tourType
+	{	
+		string cityName;
+		int distance;
+		timeType travelTime;
+	};
+
+    return 0;
+}
