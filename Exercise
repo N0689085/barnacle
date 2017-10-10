@@ -21,3 +21,13 @@ int main()
 
     return 0;
 }
+ a) Declare the variable destination of type tourType.
+b) Write C++ statements to store the following data in destination:
+i. cityName – Nottingham,
+ii. distance – 130 miles
+iii. travelTime – 3 hours and 15 minutes
+c) Write the definition of function to output that data stored in a variable of type tourType.
+d) Write the definition of a value-returning function that inputs data into a variable of type
+tourType.
+e) Write the definition of a void function with reference parameter of type tourType to input
+in a variable of type tourType.
